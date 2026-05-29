@@ -1,5 +1,5 @@
 /**
- * 【 Cidestral AI 】
+ * 【 Codestral AI 】
  * Creator  : rhmt
  * Base     : https://overchat(.)ai/
  * Category : AI Chat
